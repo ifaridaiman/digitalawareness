@@ -1,0 +1,2 @@
+# digitalawareness
+ checkpoint explorace game
